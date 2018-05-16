@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/mhjung93/project1/cmake-3.9.2-Linux-x86_64'
+let g:netrw_dirhist_2='/home/mhjung93/transform-checker'
+let g:netrw_dirhist_3='/home/mhjung93/transform-checker/test/load_test'
